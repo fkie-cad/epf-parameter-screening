@@ -1,0 +1,17 @@
+cycler
+greenlet
+kiwisolver
+matplotlib
+msgpack
+nodeenv
+numpy
+pandas
+Pillow
+pynvim
+pyparsing
+pyright
+python-dateutil
+pytz
+scipy
+six
+tqdm

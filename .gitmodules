@@ -1,0 +1,9 @@
+[submodule "fuzzers/epf"]
+	path = fuzzers/epf
+	url = https://github.com/fkie-cad/epf.git
+[submodule "targets/original/lib60870"]
+	path = targets/original/lib60870
+	url = https://github.com/mz-automation/lib60870.git
+[submodule "fuzzers/aflnet"]
+	path = fuzzers/aflnet
+	url = https://github.com/aflnet/aflnet.git
